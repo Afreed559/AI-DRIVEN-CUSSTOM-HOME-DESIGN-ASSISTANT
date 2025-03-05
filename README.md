@@ -7,11 +7,11 @@ https://ai-driven-cusstom-home-design-assistant-kqmtpytxx6kobfqdrd4b2i.streamlit
 
 # Video Demo:
 
-https://drive.google.com/file/d/1PBE4vxaxba4HhSSg_XmqKJVyiURCWHDR/view?usp=drive_link
+https://drive.google.com/file/d/1g1HeyOF2Vgg2-_FjzvowpBPWVaL0Bsfd/view?usp=sharing
 
 # Project Document:
 
-https://docs.google.com/document/d/1VrhQwrln1sHh4SEblDN8dI6amE2rUcgM/edit?usp=sharing&ouid=116371865846596511140&rtpof=true&sd=true
+https://docs.google.com/document/d/1JkCfpiSGuIKUPYUrdWsikqGVS_jG1_Su/edit?usp=sharing&ouid=117661987728672501750&rtpof=true&sd=true
 
 Skills Required: Machine Learning
 
