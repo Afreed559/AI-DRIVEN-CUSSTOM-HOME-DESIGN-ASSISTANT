@@ -3,7 +3,7 @@ import google.generativeai as genai
 import requests
 
 # Configure Gemini API Key
-api_key = "AIzaSyB2HO7FUFiqwhbeBA8uSyIME7PBmrBp2C8"
+api_key = "AIzaSyDcaaCSLtDuL-u7ZQV0OEjBkre2KFtR3LE"
 genai.configure(api_key=api_key)
 
 # Define model parameters
